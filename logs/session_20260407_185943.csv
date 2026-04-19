@@ -1,0 +1,4 @@
+timestamp,global_score,drowsy_conf,is_drowsy,yawn,head_abnormal,head_status,distraction,yaw,pitch,roll,event
+2026-04-07T19:00:36.425593,43,0.674,0,1,0,Normale,0,6.8,17.5,0.0,yawn
+2026-04-07T19:01:30.172849,39,0.581,0,1,0,Normale,0,13.1,-21.0,0.0,yawn
+2026-04-07T19:01:34.782745,57,0.707,1,1,1,Inclinee droite (156deg),0,19.3,-6.3,156.8,yawn
